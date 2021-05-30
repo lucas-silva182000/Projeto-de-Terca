@@ -8,4 +8,8 @@
 - 420100108-Maria Eduarda Da Silva Batista
 
 
-Link do site: https://projeto-de-terca.000webhostapp.com/
+## Descrição:
+No nosso projeto, foi desenvolvido um site de Colsultoria em TI utilizando o framework Bootstrap 5 baseado no curso de front-end https://www.youtube.com/watch?v=ItwUZ4fK6hQ&t=433s que um dos integrantes do grupo (Eu) esta fazendo, com foco total no Front-End.
+
+
+## Link do site: https://projeto-de-terca.000webhostapp.com/
