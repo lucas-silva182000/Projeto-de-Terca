@@ -9,7 +9,7 @@
 
 
 ## Descrição:
-No nosso projeto, foi desenvolver um site de Colsultoria em TI utilizando o framework Bootstrap 5 baseado no curso de front-end https://www.youtube.com/watch?v=ItwUZ4fK6hQ&t=433s que um dos integrantes do grupo (Eu) esta fazendo, com foco total no Front-End.
+No nosso projeto, desenvolvemos um site de Colsultoria em TI utilizando o framework Bootstrap 5 e as linguagens de marcação HTML/CSS, baseando-se no curso de front-end https://www.youtube.com/watch?v=ItwUZ4fK6hQ&t=433s que um dos integrantes do grupo (Eu) esta fazendo, com foco total no Front-End.O site foi hospedado na plataforma 000WebHost ja ultilizada anteriormente em outros projetos. E ulizamos a IDE VScode para escrever as linhas de codigo.
 
 
 ## Link do site: https://projeto-de-terca.000webhostapp.com/
